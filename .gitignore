@@ -1,0 +1,5 @@
+# Dataset AVI: os termos de uso proíbem republicar os arquivos originais
+dados/
+
+.ipynb_checkpoints/
+__pycache__/
