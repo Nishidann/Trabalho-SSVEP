@@ -2,13 +2,6 @@
 
 Trabalho de análise e classificação de sinais de EEG do tipo **SSVEP** (*Steady-State Visually Evoked Potential*) usando o **AVI SSVEP Dataset** (parte *single-target*).
 
-## Etapas
-
-| Notebook | Conteúdo | Situação |
-|---|---|---|
-| [`leitura_dos_dados.ipynb`](leitura_dos_dados.ipynb) | Estrutura dos dados e comparação dos 4 participantes | ✅ concluído |
-| Pré-processamento e classificação | Filtros, janelas, extração de características e classificadores | próxima etapa |
-
 ## Como rodar
 
 1. Instale as dependências:
