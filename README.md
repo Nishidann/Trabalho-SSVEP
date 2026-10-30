@@ -18,7 +18,7 @@ Trabalho de análise e classificação de sinais de EEG do tipo **SSVEP** (*Stea
 2. Baixe o **AVI SSVEP Dataset** em www.setzner.com e coloque os arquivos `Sub1_singletarget.mat` a `Sub4_singletarget.mat` na pasta `dados/`.
 3. Abra o notebook:
    ```
-   jupyter notebook 01_leitura_dos_dados.ipynb
+   jupyter notebook leitura_dos_dados.ipynb
    ```
 
 Os arquivos do dataset não estão neste repositório porque os termos de uso não permitem republicá-los.
