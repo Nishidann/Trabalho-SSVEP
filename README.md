@@ -6,7 +6,7 @@ Trabalho de análise e classificação de sinais de EEG do tipo **SSVEP** (*Stea
 
 | Notebook | Conteúdo | Situação |
 |---|---|---|
-| [`01_leitura_dos_dados.ipynb`](01_leitura_dos_dados.ipynb) | Estrutura dos dados e comparação dos 4 participantes | ✅ concluído |
+| [`leitura_dos_dados.ipynb`](leitura_dos_dados.ipynb) | Estrutura dos dados e comparação dos 4 participantes | ✅ concluído |
 | Pré-processamento e classificação | Filtros, janelas, extração de características e classificadores | próxima etapa |
 
 ## Como rodar
