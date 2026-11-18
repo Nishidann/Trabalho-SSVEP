@@ -3,3 +3,6 @@ dados/
 
 .ipynb_checkpoints/
 __pycache__/
+
+# repositório de tutoriais baixado pela primeira célula dos notebooks
+tutoriais/
